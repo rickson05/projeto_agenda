@@ -39,3 +39,9 @@ Este projeto foi desenvolvido com fins acadêmicos, com o objetivo de praticar:
     Integração entre MYSQL e HTML
     Organização de projetos para versionamento no GitHub
 
+🧩 Passo a passo para abrir o projeto:
+    .Instale o xampp no seu computador e ative as duas primeiras opções: Apache e MySQL
+    .Crie uma pasta para este arquivo
+    .transfire para htdocs
+    .Abra a pasta criada no VSCODE
+
