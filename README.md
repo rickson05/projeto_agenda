@@ -22,9 +22,20 @@ A agenda exibe conteúdos de forma dinâmica, permite a navegação entre posts 
     Página de contato
 
 🧩 Tecnologias Utilizadas
-    HTML5
-    MYSQL
-    CSS3
-    Bootstrap
-    PHP
+    HTML5,
+    MYSQL,
+    CSS3,
+    Bootstrap,
+    PHP,
     Servidor local (XAMPP, WAMP ou similar)
+
+    
+🎯 Objetivo do Projeto
+Este projeto foi desenvolvido com fins acadêmicos, com o objetivo de praticar:
+    Estruturação de páginas em PHP
+    Uso de arrays associativos
+    Separação de responsabilidades no código
+    Criação de templates reutilizáveis
+    Integração entre MYSQL e HTML
+    Organização de projetos para versionamento no GitHub
+
