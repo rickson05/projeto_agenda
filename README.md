@@ -1,4 +1,4 @@
-Este projeto consiste no desenvolvimento de um mini agenda dinâmica, desenvolvido como projeto do curso técnico do SENAC, no curso de Técnico em Informática para Internet.
+Este projeto consiste no desenvolvimento de uma agenda dinâmica, desenvolvido como projeto do curso técnico do SENAC, no curso de Técnico em Informática para Internet.
 
 Foi criado com HTML, CSS, Bootstrap, MYSQL e PHP, utilizando arrays associativos para simular um sistema de postagens.
 
