@@ -41,6 +41,7 @@ Este projeto foi desenvolvido com fins acadêmicos, com o objetivo de praticar:
 
 🧩 Passo a passo para abrir o projeto:
     .Instale o xampp no seu computador e ative as duas primeiras opções: Apache e MySQL
+    
     .Crie uma pasta para este arquivo
     .transfire para htdocs
     .Abra a pasta criada no VSCODE
