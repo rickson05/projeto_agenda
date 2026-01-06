@@ -1,1 +1,1 @@
-projeto sobre agenda feito em PDO, HTML, CSS e MYSQL
+projeto sobre agenda feito em PDO, BOOTSTRAP, HTML, CSS e MYSQL
